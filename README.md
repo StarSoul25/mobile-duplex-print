@@ -7,6 +7,7 @@
 ​Simple workflow: Just print the odd-numbered pages, flip the stack, and print the even-numbered pages.
 ​Download Links
 ​GitHub (Source & APK): https://github.com/StarSoul25/mobile-duplex-print
+
 ​MediaFire (Direct APK Download): [https://www.mediafire.com/file/5pjn0005wyh0fzk/Mobil_CiftTarafli_Yazdirma_v1.apk/file]
 ​How it works
 ​Upload: Select your PDF document within the app.
