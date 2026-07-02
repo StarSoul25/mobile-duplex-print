@@ -8,7 +8,7 @@
 ​Download Links
 ​GitHub (Source & APK): https://github.com/StarSoul25/mobile-duplex-print
 
-​MediaFire (Direct APK Download): [https://www.mediafire.com/file/5pjn0005wyh0fzk/Mobil_CiftTarafli_Yazdirma_v1.apk/file]
+​MediaFire (Direct APK Download):[https://www.mediafire.com/file/c0wfhg4ayqsbxf5/Duplex_Print_Helper.apk/file]
 ​How it works
 ​Upload: Select your PDF document within the app.
 ​Split: The app processes the file and generates two separate files (Odd/Even).
